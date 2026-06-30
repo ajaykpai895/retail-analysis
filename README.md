@@ -23,7 +23,9 @@ retail-analysis/
 │   ├── chart_06_products.png
 │   └── chart_07_inventory_risk_matrix.png
 └── tableau/
-    └── RetailDashboard.twbx
+│   └── RetailDashboard.twbx
+└── report/
+    └── Retail_Profitability_Report.pdf
 ```
 
 ## Overview
